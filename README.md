@@ -18,7 +18,7 @@ More about me can be found at <a href="https://aidanhsiao.com">my website</a>.
 
 ### 💻 What I do:
 &nbsp;&nbsp;- I run 🛌 <a href="https://bedstats-site.vercel.app">BedStats</a>, an Electron-based application designed to track your BedWars
-statistics and assist you in-lobby. The website is written using React and Next.js, which are two frameworks I hope to master.<br>
+statistics and assist you in-lobby. <br>
 &nbsp;&nbsp;- I enjoy making portfolio websites for friends who need them.<br>
 &nbsp;&nbsp;- I make utility bots for <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" width="15" height="15"/> <a href="https://discord.com">Discord</a>.
 

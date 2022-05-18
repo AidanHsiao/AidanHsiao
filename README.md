@@ -7,7 +7,7 @@
   🙂 About me:
 </h3>
 <p align="left">
-I gained a passion for coding when I was 11 years old, starting with Scratch back in 6th grade. I slowly moved up the chain, going from Scratch, to basic Node.js, to HTML/CSS/JS, and finally Next.js + Typescript. <br><br>
+I discovered my passion for coding when I was 11 years old, starting with Scratch back in 6th grade. I slowly moved up the chain, going from Scratch, to basic Node.js, to HTML/CSS/JS, and finally Next.js + Typescript. <br><br>
 I started learning React at the beginning of 2022, and I'm hoping to learn other front-end frameworks like Vue and Angular, as well as utility frameworks such as Redux! <br><br>
 More about me can be found at <a href="https://aidanhsiao.com">my website</a>.
 </p>

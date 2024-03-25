@@ -14,7 +14,7 @@ More about me can be found at <a href="https://aidanhsiao.com">my website</a>.
 
 <br>
 
-<img align="left" width="55%" src="https://i.ibb.co/CJHdV0v/Screen-Shot-2022-05-09-at-8-20-22-PM.png"/>
+<img align="left" width="55%" height="250" src="https://i.ibb.co/CJHdV0v/Screen-Shot-2022-05-09-at-8-20-22-PM.png"/>
 
 ### 💻 What I do:
 &nbsp;&nbsp;- I run 🛌 <a href="https://bedstats-site.vercel.app">BedStats</a>, an Electron-based application designed to track your BedWars
